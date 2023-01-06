@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 premier fichier crée dans master
+=======
+premier fichier crée crée dans exemple1
+>>>>>>> exemple1
